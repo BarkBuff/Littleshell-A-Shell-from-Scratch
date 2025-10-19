@@ -1,4 +1,4 @@
-# Microshell-A-Shell-from-Scratch
+# Littleshell-A-Shell-from-Scratch
 
 **Tiny shell. Big attitude. No hand-holding.**
 
