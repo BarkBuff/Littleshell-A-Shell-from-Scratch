@@ -14,8 +14,8 @@ Just `C`, raw system calls, and your will to type.
 ## Build & Run
 
 ```bash
-gcc microshell.c -o microshell
-./microshell
+gcc sandbox.c -o sandbox
+./sandbox
 ```
 
 **Tip:** Don’t break it… or do. Your call.
